@@ -1,0 +1,29 @@
+{
+    margin: 0;
+    padding: 0;
+}
+.main{
+width: 100%;
+background: linear-gradinet<to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%,url(back.jpg)
+background-position:center;
+backgroun-size:cover;
+hight: 109vh;
+}
+.navbar{
+    width: 1200px;
+hight:75px;
+margin:auto;
+}
+.icon{
+    color:200px;
+    float:left;
+    height:70px;
+}
+.logo{
+    color:#ff7200;
+    font-size:35px;
+    font-family:arial;
+    padding-left:20;
+    float:left;
+    padding-top:10px
+}
